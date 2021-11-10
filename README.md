@@ -1,5 +1,5 @@
-# pi-apps-announcements
-- The `messages` file contains what's displayed for all Pi-Apps installations going forward.  
-- The `donate_message` file is used when displaying the donate message.
+# pi-apps-ankündigungen
+- Die Datei `messages` enthält, was für alle zukünftigen Pi-Apps-Installationen angezeigt wird.
+- Die Datei `donate_message` wird verwendet, wenn die Spendennachricht angezeigt wird.
 
-This repo is separated from the main pi-apps repo to prevent unnecessary `updater` prompts.
+Dieses Repository ist vom Haupt-Pi-Apps-Repository getrennt, um unnötige "updater"-Eingabeaufforderungen zu vermeiden.
