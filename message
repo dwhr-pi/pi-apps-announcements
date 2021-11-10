@@ -1,3 +1,4 @@
+## English
 Microsoft accounts now work on Minecraft!\nThanks to all who made this possible. :)
 Try out the new Minecraft Pi (Modded) app for a revamped MCPI experience!
 Update Buddy: check for apt updates on boot with a non-invasive GUI!
@@ -15,3 +16,23 @@ PROTIP: Try the Pi-Apps 3D dark mode. In Settings, choose xlunch.
 PROTIP: Want to make an app? Click <b>Create App</b> in Settings.
 PROTIP: Make your own categories using Category Editor. (in Settings)
 Need help? <a href="https://github.com/Botspot/pi-apps/issues/new">Open an issue</a> or join our friendly <a href="https://discord.gg/RXSTvaUvuu">Discord server</a>.
+
+
+## German
+Microsoft-Konten funktionieren jetzt auf Minecraft!\nDanke an alle, die dies möglich gemacht haben. :)
+Probiere die neue Minecraft Pi (Modded) App für ein überarbeitetes MCPI-Erlebnis aus!
+Update Buddy: Suchen Sie beim Booten mit einer nicht-invasiven GUI nach passenden Updates!
+Wine: Führen Sie x86-Windows-Apps auf Ihrem Pi aus.
+Chromium Widevine: Spielen Sie Netflix im Browser ab.
+YouTubuddy: der effizienteste YouTube-Player aller Zeiten!
+eDEX-UI: Schönes futuristisches Terminal.
+Cooler Retro-Begriff: funktionierendes Bash-Terminal, sieht aus wie ein Röhrenfernseher!
+Windows Flasher: Installieren Sie echtes Windows 10 oder 11 auf Ihrem Pi4!
+CloudBuddy: Verwalten Sie Ihr Google Drive, Dropbox, Onedrive ohne Webbrowser.
+Windows-Bildschirmschoner: Führen Sie beliebte Bildschirmschoner von Windows auf Ihrem Pi aus.
+Haben Sie bemerkt, dass Ihr Pi Scratch 2 entfernt hat? Installieren Sie Scratch 2 hier, um es zurückzubekommen.
+PROTIP: Wählen Sie mehrere Apps mit der Umschalttaste aus, um sie alle zu installieren.
+PROTIP: Probieren Sie den dunklen 3D-Modus von Pi-Apps aus. Wählen Sie in den Einstellungen xlunch.
+PROTIP: Möchten Sie eine App erstellen? Klicken Sie in den Einstellungen auf <b>App erstellen</b>.
+PROTIP: Erstellen Sie Ihre eigenen Kategorien mit dem Kategorie-Editor. (in den Einstellungen)
+Brauchen Sie Hilfe? <a href="https://github.com/Botspot/pi-apps/issues/new">Öffne ein Problem</a> oder schließe dich unserem freundlichen <a href="https://discord.gg/RXSTvaUvuu" an >Discord-Server</a>.
